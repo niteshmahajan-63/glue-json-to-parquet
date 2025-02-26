@@ -1,0 +1,5 @@
+*.log
+*.pyc
+__pycache__/
+aws_credentials.json
+.env

@@ -21,3 +21,7 @@ This AWS Glue job reads JSON files from an S3 bucket, processes them using PySpa
 1. Install dependencies:
    ```sh
    pip install -r requirements.txt
+
+2. Run the script:
+    ```sh
+    python glue_job.py
